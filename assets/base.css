@@ -1,0 +1,4 @@
+html { font-size: 62.5%; line-height: 1.6rem; font-family: "Times New Roman", Times, serif; box-sizing: border-box; }
+.grid { width: 1270px; max-width: 100%; margin: 0px auto; padding: 0px 15px; }
+main { background-color: rgb(244, 244, 244); }
+:root { --height: -33.94px; }
